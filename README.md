@@ -12,5 +12,3 @@ npm run bolo
 ## Author
 
 - Github: [@kessedias](https://github.com/kessedias)
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
